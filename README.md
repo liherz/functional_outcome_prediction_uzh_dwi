@@ -19,6 +19,6 @@ predictions are available in the folder *callbacks*.
 models is contained in the folder *classification_models_3D_master* which is copied 
 and slightly adapted from the github repository ZFTurbo/classification_models_3D.
 
-**3D_CNN_ONTRAM_Zurich_DWI_mrs_preprocessed_ENSEMBLE_CV_ORDINAL_Resnet.ipynb**: All 
+**notebooks**: All 
 information on how to define, train and evaluate the ONTRAMs is contained in the 
 iPython Notebook *3D_CNN_ONTRAM_Zurich_DWI_mrs_preprocessed_ENSEMBLE_CV_ORDINAL_Resnet.ipynb*.
