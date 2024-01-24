@@ -2,7 +2,9 @@
 
 This repository contains some example code on predicting functional outcome 
 for ischemic stroke patients based on clinical variables, diffusion weighted 
-imaging (DWI) and a combination of both.
+imaging (DWI) and a combination of both. All information on how to define, 
+train and evaluate the ONTRAMs is contained in the notebook 
+**ontrams_3d_resent_clinical_dwi**
 
 **k_ontram_functions**: We consider ordinal neural network transformation models (ONTRAMs) 
 to predict functional outcome in terms of modified Rankin Scale (mRS) three months 
@@ -20,6 +22,4 @@ predictions are available in the folder *callbacks*.
 The code for the models is contained in the folder *classification_models_3D_master* which 
 is copied and slightly adapted from the github repository ZFTurbo/classification_models_3D.
 
-**notebooks**: All information on how to define, train and evaluate the ONTRAMs is contained 
-in the notebook *3D_CNN_ONTRAM_Zurich_DWI_mrs_preprocessed_ENSEMBLE_CV_ORDINAL_Resnet.ipynb* in 
-the folder *notebooks*.
+
